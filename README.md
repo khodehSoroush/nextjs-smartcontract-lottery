@@ -1,3 +1,9 @@
+📷 This is a preview of Decentrilized Lottery App , built with 💖 Using Nextjs,Solidity,JS,Tailwind,Hardhat,Moralis,web3uikit and Ethers 👇
+
+![Enter-llottery-preview](https://user-images.githubusercontent.com/106740969/187027646-5e1b0fd1-3321-4ff9-a3db-088731673053.png)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
